@@ -1,6 +1,6 @@
 
 
-# Hi there! 👋 I'm nacchate!
+# Hi there! 👋 I'm nacchatte!
 
 Welcome to my GitHub profile! I majored in with a passion for building innovative software solutions. I specialize in Web Development (Full Stack) as well as UI/UX designing. I'm currently working on my final year project at Universiti Malaysia Sarawak, Malaysia.
 
